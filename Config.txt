@@ -1,0 +1,6 @@
+*** Settings ***
+
+*** Variables ***
+${Base_URL}    https://gorest.co.in
+${Token}    05d74d0e5c158e3677b2f164d7efb3a370476f008989842087883af327afda1f
+${Create_userJson}   ${CURDIR}\\Test_Data\\create_user.json
